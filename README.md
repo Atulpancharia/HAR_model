@@ -1,6 +1,5 @@
 # HAR_model
 
-Sure, here's a potential GitHub repository description for a project that combines human action recognition using both Streamlit and Django:
 
 ---
 
@@ -33,14 +32,12 @@ This repository contains a comprehensive human action recognition web applicatio
 
 Contributions to this project are welcome! Whether you want to enhance the model, improve the user interface, or optimize the deployment process, your ideas and pull requests are valuable contributions to the community.
 
-**License:**
 
-This project is licensed under the [MIT License](LICENSE).
 
-**Disclaimer:**
-
-This project is developed for educational and demonstration purposes. It may require additional refinement and tuning for specific production environments.
 
 ---
 
-Feel free to customize this description according to your project's actual features, goals, and the details you provide. Make sure to include relevant badges, documentation, and setup instructions in your repository as well.
+Feel free to customize this description according to your project's actual features, goals, and the details you provide. Make sure to include relevant badges, documentation, and setup instructions in your repository as well.![Screenshot (910)](https://github.com/Atulpancharia/HAR_model/assets/87235496/84265908-0734-4216-9b8d-8e22c73b4222)
+
+
+![Screenshot (911)](https://github.com/Atulpancharia/HAR_model/assets/87235496/078df7a3-1ed4-48f9-9dff-a035c45f892f)
